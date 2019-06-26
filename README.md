@@ -27,3 +27,4 @@ error.sh
 ~~~
 packstack --answer-file /root/13.04.16.conf
 ~~~
+![](https://github.com/henriqelol/Packstack/blob/master/OpenStack.png)
